@@ -4,3 +4,9 @@ __pycache__
 .env
 
 db/data
+
+mydatabase
+
+# IPython
+.ipynb_checkpoints
+*.ipynb
